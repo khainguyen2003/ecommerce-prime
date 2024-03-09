@@ -26,3 +26,6 @@ a {
 .layout-wrapper {
     min-height: 100vh;
 }
+.p-submenu-list {
+    z-index: 10000 !important;
+}
